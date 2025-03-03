@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello, my name is Harvey and I am an ambitious learner.<br>
-My dream is to be a quantum physicist.<br>
+Hello, my name is Harvey, and I'm an ambitious learner.<br>
+My dream is to become a quantum physicist.<br>
 ### 💭 Some of my interests and hobbies:
 gaming<br>
 3D modeling (terrible at it)<br>
