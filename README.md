@@ -84,8 +84,8 @@ Hello! I'm Harvey, an ambitious learner with a passion for technology and scienc
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sly-Harvey&icon=0&color=5" alt="Profile Views" />
-  <br/><br/>
+  <!-- <img src="https://visitcount.itsvg.in/api?id=Sly-Harvey&icon=0&color=5" alt="Profile Views" /> -->
+  <!-- <br/><br/> -->
   <a href="https://ko-fi.com/Q5Q41CX0Z3"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
 </div>
 
